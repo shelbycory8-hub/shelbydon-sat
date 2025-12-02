@@ -1,0 +1,20 @@
+# These are supported funding model platforms
+
+github: shelbycory8-hub   # Optional: if you want GitHub Sponsors
+patreon:                  # Leave blank or delete if not using
+open_collective:          # Leave blank or delete
+ko_fi:                    # Leave blank or delete
+tidelift:                 # Leave blank or delete
+community_bridge:         # Leave blank or delete
+liberapay:                # Leave blank or delete
+issuehunt:                # Leave blank or delete
+lfx_crowdfunding:         # Leave blank or delete
+polar:                    # Leave blank or delete
+buy_me_a_coffee:          # Leave blank or delete
+thanks_dev:               # Leave blank or delete
+
+# Up to 4 custom sponsorship URLs (focus on PayPal and Cash App only)
+custom:
+  - https://www.paypal.com/biz/profile/CoryShelby327   # Your PayPal.me link
+  - https://cash.app/$coryshelby327                    # Your Cash App link
+  - mailto:Thx@123cory.com?subject=Shelbydon%20Sponsorship   # Direct email for larger contributions
